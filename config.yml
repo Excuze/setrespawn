@@ -1,0 +1,5 @@
+psp:
+  collective: true
+  opscannuke: true
+  cooldown: 120
+  enabled: true
