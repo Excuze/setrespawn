@@ -57,16 +57,16 @@
 /*  57 */     return !sc.hasNext();
 /*     */   }
 /*     */   
-/*     */   private boolean isDouble(String str) {
-/*     */     try {
-/*  62 */       double x = Double.parseDouble(str);
+/*     */   
+/*     */     
+/*  62 */      
 /*     */       
-/*  64 */       return true;
-/*     */     }
-/*  66 */     catch (NumberFormatException e) {
-/*  67 */       return false;
-/*     */     } 
-/*     */   }
+/*  64 */       
+/*     */     
+/*  66 */     
+/*  67 */       
+/*     */     
+/*     */   
 /*     */ 
 /*     */   
 /*  72 */   YamlConfiguration playerconfig = new YamlConfiguration();
@@ -137,7 +137,7 @@
 /*     */ 
 /*     */         
 /* 139 */         return true;
-/*     */       } 
+/*     */       }
 /*     */ 
 /*     */ 
 /*     */ 
